@@ -9,11 +9,6 @@
 
 ## Instalação e Execução
 
-### Pré-requisitos
-
-- Node.js (v16 ou superior)
-- Yarn ou npm
-
 ### Passos para Instalar e Executar
 
 1. **Clone o repositório**
