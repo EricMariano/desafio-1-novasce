@@ -19,7 +19,7 @@
 1. **Clone o repositório**
    ```bash
    git clone <URL_DO_REPOSITORIO>
-   cd gestao-de-confeitaria
+   cd desafio-1-novasce
 2. **Instale as dependências**
     ```bash
     npm install
