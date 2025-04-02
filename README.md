@@ -18,8 +18,8 @@
 2. **Instale as dependências**
     ```bash
     npm install
-   ou, se estiver utilizando Yarn:
-   yarn install
+   # ou, se estiver utilizando Yarn:
+   # yarn install
 3. **Inicie o servidor de desenvolvimento**
     ```bash
     npm run dev
